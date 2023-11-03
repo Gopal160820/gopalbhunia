@@ -379,11 +379,12 @@ span {
 }
 
 .service-card p {
-    font-size: 20px;
+    font-size: 18px;
     color: #274c77;
     line-height: 1.5;
     text-align: justify;
     padding: 20px;
+    line-height: 40px;
 }
 
 .services h2 {
