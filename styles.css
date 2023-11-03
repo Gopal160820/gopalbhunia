@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #ff595e;
+    border-bottom: 2px solid #ff3d3d;;
 }
 
 nav li:first-child {
