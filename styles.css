@@ -173,7 +173,7 @@ svg {
     background: #ff6b6b;
     color: #fff;
     text-decoration: none;
-    border-radius: 25px;
+    border-radius: 5px;
     font-weight: bold;
     transition: background 0.3s ease;
 }
@@ -233,7 +233,7 @@ svg {
 }
 
 span {
-    color: #d60b0b;
+    color: #004b23;
 }
 
 
