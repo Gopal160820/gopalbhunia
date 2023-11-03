@@ -778,7 +778,10 @@ h2 {
     padding-bottom: 10px;
     line-height: 40px;
 }
-
+.contact-btn {
+    padding: 0 5px 0 5px;
+    color: #e36414;
+}
 
 
 
